@@ -1,0 +1,48 @@
+:root {
+  /* Color — drawn from the BMG crest: deep navy field, gold eagle & type */
+  --navy-950: #0a1730;
+  --navy-900: #0e1f3d;
+  --navy-800: #142c52;
+  --navy-700: #1c3a68;
+  --navy-line: rgba(255, 255, 255, 0.09);
+
+  --gold-600: #a8811c;
+  --gold-500: #c9a227;
+  --gold-400: #dbb84a;
+  --gold-300: #e8cd7c;
+
+  --cream-100: #f8f4e9;
+  --cream-200: #efe8d6;
+
+  --ink-900: #14161c;
+  --ink-600: #4a4e59;
+  --ink-400: #7b7f89;
+
+  --success: #3e7a5c;
+  --danger: #a8442d;
+
+  /* Type */
+  --font-display: "Fraunces", "Georgia", serif;
+  --font-body: "Inter", "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  /* Scale */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.375rem;
+  --text-2xl: 1.75rem;
+  --text-3xl: 2.25rem;
+  --text-4xl: 3rem;
+  --text-5xl: 4rem;
+
+  /* Layout */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --container-max: 1180px;
+
+  --shadow-card: 0 8px 30px rgba(10, 23, 48, 0.12);
+  --shadow-deep: 0 20px 60px rgba(10, 23, 48, 0.35);
+}
